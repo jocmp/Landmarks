@@ -1,10 +1,3 @@
-//
-//  LandmarksApp.swift
-//  Shared
-//
-//  Created by Josiah Campbell on 4/3/21.
-//
-
 import SwiftUI
 
 @main
